@@ -1,2 +1,2 @@
 # Python
-Homework from GoIt Python courses
+Homework from GoIt courses on Python 
